@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+web3
+solana
+python-telegram-bot==20.3
+httpx
